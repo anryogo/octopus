@@ -1,3 +1,2 @@
-# octopus
-Aggregator of social network apps.
-Text message
+# Octopus
+Collectible Card Game engine...
