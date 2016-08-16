@@ -1,0 +1,16 @@
+{
+  "name": "octopus",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anryogo/octopus.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}

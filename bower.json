@@ -1,0 +1,8 @@
+{
+  "name": "octopus",
+  "dependencies": {
+    "requirejs": "^2.2.0",
+    "underscore": "^1.8.3",
+    "jquery": "^3.1.0"
+  }
+}
